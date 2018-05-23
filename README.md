@@ -3,6 +3,6 @@ Agregadas operaciones '-' y '/' al ejemplo trabajado en clase
 
 Integrantes:
 
-Mauricio Parada
-Yulean Rios.
+Mauricio Parada, 
+Yulean Rios, 
 Rodrigo Alvarez.
